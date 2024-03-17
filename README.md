@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodney85&label=Profile%20views&color=0e75b6&style=flat" alt="rodney85" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rodney85" alt="rodney85" /></a> </p>
-
 - 🌱 I’m currently learning **full stack dev**
 
 - 🤝 I’m looking for help with **Artificial Intelligence**
